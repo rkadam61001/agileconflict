@@ -1,6 +1,34 @@
 This is sample text1
 want to create conflict
 all in one
+revert
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
